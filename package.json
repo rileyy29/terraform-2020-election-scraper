@@ -1,0 +1,9 @@
+{
+  "name": "2020-election-scraper",
+  "description": "Election data scraper for USA 2020 Presential Election based on the NYT API",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1415.0",
+    "axios": "^1.4.0"
+  }
+}

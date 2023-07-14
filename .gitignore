@@ -1,0 +1,6 @@
+*.lock
+*.terraform*
+main.tf
+*.zip
+.nvmrc
+/node_modules/
